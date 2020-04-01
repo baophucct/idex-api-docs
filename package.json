@@ -4,7 +4,7 @@
   "description": "IDEX API - example scripts for creating request payloads",
   "author": "AuroraDAO IDEX",
   "dependencies": {
-    "ethereumjs-util": "^6.0.0",
+    "ethereumjs-util": "^6.2.0",
     "lodash": "^4.17.11",
     "web3-utils": "^1.0.0-beta.37"
   }
